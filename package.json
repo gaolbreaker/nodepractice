@@ -1,0 +1,28 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "practicing node and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaolbreaker/nodepractice.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "practice"
+  ],
+  "author": "elbert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaolbreaker/nodepractice/issues"
+  },
+  "homepage": "https://github.com/gaolbreaker/nodepractice#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
